@@ -1,0 +1,23 @@
+2
+Francine Lastimosa
+francineee
+francinepassword
+random
+Student
+1
+1
+0
+0
+2
+0
+Nicole Zambrano
+anne123
+nicolepassword
+random
+francine's friend
+1
+1
+0
+0
+1
+0
